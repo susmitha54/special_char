@@ -1,0 +1,1 @@
+print("\\n is the special character in python")
